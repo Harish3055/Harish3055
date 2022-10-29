@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harish3055
 - 👀 I’m interested in 🎧👨‍💻⚽
-- 🌱 I’m currently a developer @ZOHOCORP
+- 🌱 I’m a developer @ZOHOCORP
 - 📫 reach me @haridm2002@gmail.com
 
 <!---
